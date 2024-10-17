@@ -1,0 +1,36 @@
+ C O M M A N D S : 
+ (Commands work in capital letters too)
+
+ :edata!
+	Edit TXT data file in leafpad.
+----------------------------------------------------------
+ :n! Create a new note.
+
+ I N S T R U C T I O N S :
+
+ 1.-Define a "keyword" to identify your 
+    data categories.
+ 2.-Write your Note related to the "keyword" category you
+    have defined before.
+ 3.-Enjoy your Notes managed by "keywords".
+----------------------------------------------------------
+ :keyword!,key!
+	Shows keywords stored
+----------------------------------------------------------
+ :ekey!
+	Edit "Keywords" data file in leafpad
+----------------------------------------------------------
+ :help!
+	Shows this content.
+----------------------------------------------------------
+ :donate! (Under Construction)
+	If you find this program useful to you
+	please make a donation in Bitcoin! 
+	BTCOIN ADDRESS: 36ob87ihpiKKDQ2dRwpMPAPopGMTb1woVp
+----------------------------------------------------------
+ :about! (Under Construction)
+	All information about this program.
+----------------------------------------------------------
+ :contact! (Under Construction)
+	Open LinkEdin's developer Sergio Juarez.
+----------------------------------------------------------
